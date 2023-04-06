@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 19.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "SQL Portfolio project", "SQL Portfolio project\SQL Portfolio project.ssmssqlproj", "{0F369B08-2E9B-45B2-AD56-EF56219C96AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F369B08-2E9B-45B2-AD56-EF56219C96AC}.Default|Default.ActiveCfg = Default
+		{3A8077BC-842D-43C0-971B-ECDD9828ED99}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0D86A9F-BAEE-4EB0-88B0-022D4103504C}
+	EndGlobalSection
+EndGlobal
